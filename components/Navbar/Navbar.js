@@ -12,10 +12,6 @@ const Navbar = () => {
                     <a>About</a>
                 </Link>
             </menu>
-            <menu>
-                <a href="/">Home2</a>
-                <a href="/about">about2</a>
-            </menu>
         </nav>
     );
 };
